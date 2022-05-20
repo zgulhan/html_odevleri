@@ -1,0 +1,1 @@
+Bu dizin, [Patika.dev](http://https://www.patika.dev/) HTML eğitimleri kapsamında yazılmıştır.
